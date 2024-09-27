@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "_rus_anonce.dm"
+#include "code\default_rus_anonce.dm"
+// END_INCLUDE
